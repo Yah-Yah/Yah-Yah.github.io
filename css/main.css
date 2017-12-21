@@ -1,0 +1,40 @@
+body {
+  margin: 60px auto;
+  width: 70%;
+  font-family: 'Lato', 'Helvetica', 'Arial', 'Sans-serif';
+}
+p {
+  font-size: 1.5em;
+  line-height: 1.4em;
+  color: #444;
+}
+h1 {
+  font-size: 3em;
+}
+a {
+  text-decoration: none;
+  color: #888;
+}
+a:hover {
+  text-decoration: undrline;
+}
+footer {
+  border-top: 1px solid #b5b5b5;
+  font-size: .8em;
+}
+nav ul, footer ul {
+  padding: 0px;
+  list-style: none;
+  font-weight: bold;
+}
+nav ul li, footer ul li {
+  display: inline;
+  margin-right: 20px;
+}
+ul.posts {
+  margin: 20px auto 40px;
+  font-size: 1.5em;
+}
+ul.posts li {
+  list-style: none;
+}
