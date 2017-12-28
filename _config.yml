@@ -1,2 +1,3 @@
 name: JZ stands for
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
